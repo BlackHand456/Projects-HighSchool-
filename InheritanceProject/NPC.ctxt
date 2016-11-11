@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NPC
+comment0.text=\r\n\ A\ character\ that\ moves\ randomly.\r\n\ \r\n\ @author\ Evan\ Brown\r\n\ @version\ 1.0\r\n
+comment1.params=img
+comment1.target=NPC(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ NPC\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ nearObstacle()
+comment4.params=
+comment4.target=void\ randDir()
+numComments=5
