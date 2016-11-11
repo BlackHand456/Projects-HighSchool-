@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=gameName
+comment0.target=Run(java.lang.String)
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=gc
+comment1.target=void\ initStatesList(org.newdawn.slick.GameContainer)
+comment1.text=\r\n\ Initializes\ all\ of\ the\ game\ states.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Runs\ the\ game.\r\n
+numComments=3

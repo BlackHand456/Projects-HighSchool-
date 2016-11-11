@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=state
+comment0.target=Menu(int)
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\r\n
+comment2.params=gc\ s
+comment2.target=void\ init(org.newdawn.slick.GameContainer,\ org.newdawn.slick.state.StateBasedGame)
+comment2.text=\r\n\ Initializes\r\n
+comment3.params=gc\ s\ g
+comment3.target=void\ render(org.newdawn.slick.GameContainer,\ org.newdawn.slick.state.StateBasedGame,\ org.newdawn.slick.Graphics)
+comment3.text=\r\n\ draws\ images.\r\n
+comment4.params=gc\ s\ delta
+comment4.target=void\ update(org.newdawn.slick.GameContainer,\ org.newdawn.slick.state.StateBasedGame,\ int)
+comment4.text=\r\n\ Updates\ allowing\ for\ choices\ on\ the\ menu.\r\n
+comment5.params=gc\ s
+comment5.target=void\ buttonChoose(org.newdawn.slick.GameContainer,\ org.newdawn.slick.state.StateBasedGame)
+comment5.text=\r\n\ Moves\ the\ cursor\ image\ and\ changes\ which\ button\ on\ is\ on\ and\ determines\ if\ one\ is\ selected.\r\n
+comment6.params=
+comment6.target=int\ getID()
+comment6.text=\r\n\ The\ game\ state's\ id.\r\n
+numComments=7

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=state
+comment0.target=Selection(int)
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=gc\ s
+comment1.target=void\ init(org.newdawn.slick.GameContainer,\ org.newdawn.slick.state.StateBasedGame)
+comment1.text=\r\n\ Initializes\ including\ creating\ the\ font.\r\n
+comment2.params=gc\ s\ g
+comment2.target=void\ render(org.newdawn.slick.GameContainer,\ org.newdawn.slick.state.StateBasedGame,\ org.newdawn.slick.Graphics)
+comment2.text=\r\n\ Draws\ the\ images\ for\ the\ choices.\r\n
+comment3.params=gc\ s\ delta
+comment3.target=void\ update(org.newdawn.slick.GameContainer,\ org.newdawn.slick.state.StateBasedGame,\ int)
+comment3.text=\r\n\ Updates\ which\ position\ the\ player\ is\ currently\ on\ and\ determines\ if\ one\ is\ pressed.\r\n
+comment4.params=num
+comment4.target=org.newdawn.slick.Color\ getCol(int)
+comment4.text=\r\n\ Changes\ the\ color\ based\ on\ where\ the\ player\ is\ selecting.\r\n
+comment5.params=
+comment5.target=int\ getID()
+comment5.text=\r\n\ The\ game\ state's\ id.\r\n
+numComments=6

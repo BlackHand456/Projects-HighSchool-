@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=r\ dmg
+comment0.target=Attack(org.newdawn.slick.geom.Rectangle,\ int)
+comment0.text=\r\n\ Constructor\ for\ Attack\r\n
+numComments=1
