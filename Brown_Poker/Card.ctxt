@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=theSuit\ theRank
+comment0.target=Card(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ card.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Returns\ the\ description\ for\ a\ card\ by\ giving\ its\ rank\ and\ suit.\r\n
+comment2.params=c2
+comment2.target=boolean\ equals(Card)
+comment2.text=\r\n\ Checks\ if\ a\ card's\ characteristics\ equal\ another's.\r\n
+comment3.params=
+comment3.target=int\ getRank()
+comment3.text=\r\n\ Returns\ a\ card's\ rank.\r\n
+numComments=4

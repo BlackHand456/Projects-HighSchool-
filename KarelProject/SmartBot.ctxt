@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ turnRight()
+comment0.text=\r\n\ Turns\ the\ robot\ left\ until\ it\ has\ turned\ right\ from\ its\ original\ position.\r\n
+comment1.params=
+comment1.target=void\ turnAround()
+comment1.text=\r\n\ Turns\ the\ robot\ until\ it\ is\ facing\ the\ opposite\ direction\ when\ comapered\ to\ its\ original\ position.\r\n
+comment2.params=
+comment2.target=void\ moveAndBeeper()
+comment2.text=\r\n\ Moves\ and\ puts\ a\ beeper.\r\n
+comment3.params=
+comment3.target=void\ moveAndPickBeeper()
+comment3.text=\r\n\ Moves\ and\ picks\ a\ beeper.\r\n
+numComments=4

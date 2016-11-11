@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=void\ trackHP(PlayerBot)
+comment0.text=\r\n\ Tracks\ player's\ HP\ and\ represents\ it\ with\ beepers.\r\n
+comment1.params=p
+comment1.target=void\ trackBattleHP(PlayerBattleBot)
+comment1.text=\r\n\ Tracks\ player's\ HP\ while\ in\ a\ battle\ and\ represents\ it\ with\ beepers.\r\n
+numComments=2
